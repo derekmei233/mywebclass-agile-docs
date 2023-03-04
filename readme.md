@@ -136,7 +136,8 @@ review this effectiveness before the next iteration of the project.
 
 ## Release Schedule
 
-| Release Version | Release Date | Features |
-|-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| Release Version | Release Date | Features                |
+|-----------------|--------------|-------------------------|
+| 0.1.x           | TBD          | Test and study contents |
+
 
